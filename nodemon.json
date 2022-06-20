@@ -1,0 +1,12 @@
+{
+  "verbose": "true",
+  "ignore": [
+    ".git",
+    "node_modules",
+    ".gitignore",
+    "README.md",
+    "index*",
+    "app*"
+  ],
+  "delay": 500
+}
